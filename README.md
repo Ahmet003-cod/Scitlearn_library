@@ -1,1 +1,1 @@
-Makine öğremesi Scitlearn kütüphnaesi kullanarak 
+Makine öğremesi Scitlearn kütüphnaesi kullanarak yazılan kodlar.
